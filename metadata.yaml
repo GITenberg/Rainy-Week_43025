@@ -1,0 +1,36 @@
+_repo: Rainy-Week_43025
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Eleanor Hallowell
+    alias: Coburn, Fordyce, Mrs.
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '5556'
+    url: http://www.gutenberg.org/2009/agents/5556
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
+description: Accomplished author, poet, essayist, and memoirist Eleanor Hallowell
+  Abbott dabbled in many different genres over the course of her career. Rainy Week
+  is a hilarious, irreverent account of a New England house party that goes horribly
+  awry. Packed with memorable characters and a series of unforgettably raucous scenes
+  and set pieces, it's a diverting tale if you're looking for some fun, light reading
+  material.
+gutenberg_issued: '2013-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Conversation -- Fiction'
+- !lcsh 'Entertaining -- Fiction'
+- !lcsh 'Hospitality -- Fiction'
+title: Rainy Week
+url: http://www.gutenberg.org/ebooks/43025
